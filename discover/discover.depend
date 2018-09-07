@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1509650621 source:/home/hydrogen/Documents/cpp/sfml/GAME/discover/discover/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+
+1509571725 /home/hydrogen/Documents/cpp/sfml/GAME/discover/discover/player.h
+
+1510512432 source:/home/hydrogen/Documents/cpp/sfml/GAME/discover/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1509571725 /home/hydrogen/Documents/cpp/sfml/GAME/discover/player.h
+
+1509722992 source:/home/hydrogen/Documents/cpp/sfml/GAME/discover/src/Village.cpp
+	"Village.h"
+
+1509722995 /home/hydrogen/Documents/cpp/sfml/GAME/discover/include/Village.h
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1509902797 /home/hydrogen/Documents/cpp/sfml/GAME/discover/tile_map.h
+
